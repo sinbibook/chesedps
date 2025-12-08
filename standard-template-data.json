@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2025-12-08T10:19:30.333Z",
+    "version": "1.1.0",
+    "generatedAt": "2025-12-08T23:36:11.675Z",
     "templateType": "gallery_sidebar_beige",
     "propertyId": "49dc9ba0-fa0a-4085-915c-045a7e643a55",
     "homepageId": "8d7edb99-172f-4ecd-b473-10e6d24fc07f"
@@ -183,56 +183,21 @@
             "isSelected": false
           },
           {
-            "id": "f56b1da3-2cec-4c8e-9beb-2000e1605f98",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/49dc9ba0-fa0a-4085-915c-045a7e643a55/thumbnail/1765174792922-c52horf9kzk.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": false
-          },
-          {
             "id": "ab78f581-dd0d-463f-8cb4-cf96fbcd1606",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/49dc9ba0-fa0a-4085-915c-045a7e643a55/thumbnail/1765174792922-3t07enbpi7o.jpeg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true
+          },
+          {
+            "id": "f56b1da3-2cec-4c8e-9beb-2000e1605f98",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/49dc9ba0-fa0a-4085-915c-045a7e643a55/thumbnail/1765174792922-c52horf9kzk.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": false
           }
         ],
         "exterior": [
-          {
-            "id": "11df6758-9ce8-4ef4-883a-7f47b3fb90db",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/49dc9ba0-fa0a-4085-915c-045a7e643a55/exterior/1765174792923-pm90nqvqib.jpeg",
-            "sortOrder": 11,
-            "description": "",
-            "isSelected": false
-          },
-          {
-            "id": "605454c7-40c8-42a4-bec6-e4991e3b30f3",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/49dc9ba0-fa0a-4085-915c-045a7e643a55/exterior/1765174792923-2cpfuyur93.jpg",
-            "sortOrder": 4,
-            "description": "",
-            "isSelected": false
-          },
-          {
-            "id": "5789ef0c-7a87-46a3-a95b-6dc13bfc4e4f",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/49dc9ba0-fa0a-4085-915c-045a7e643a55/exterior/1765174792922-qts13j7xg7h.jpeg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": false
-          },
-          {
-            "id": "e91433b7-cf48-4404-8929-48a55b5d4e82",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/49dc9ba0-fa0a-4085-915c-045a7e643a55/exterior/1765174792923-10z6k8sczbac.jpg",
-            "sortOrder": 10,
-            "description": "",
-            "isSelected": false
-          },
-          {
-            "id": "7477fd84-d1d9-4e14-aa3b-c4f1b203ac7e",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/49dc9ba0-fa0a-4085-915c-045a7e643a55/exterior/1765174792923-cejeox53qm.jpeg",
-            "sortOrder": 7,
-            "description": "",
-            "isSelected": false
-          },
           {
             "id": "1ff509bc-0b1e-4adc-950d-148896bf3de7",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/49dc9ba0-fa0a-4085-915c-045a7e643a55/exterior/1765174792923-oms2ybcime.jpeg",
@@ -248,11 +213,25 @@
             "isSelected": true
           },
           {
+            "id": "11df6758-9ce8-4ef4-883a-7f47b3fb90db",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/49dc9ba0-fa0a-4085-915c-045a7e643a55/exterior/1765174792923-pm90nqvqib.jpeg",
+            "sortOrder": 11,
+            "description": "",
+            "isSelected": false
+          },
+          {
             "id": "3e53ba28-0409-495e-8163-8d8a0436422e",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/49dc9ba0-fa0a-4085-915c-045a7e643a55/exterior/1765174792922-jg0k2cmjfb.jpeg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true
+          },
+          {
+            "id": "605454c7-40c8-42a4-bec6-e4991e3b30f3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/49dc9ba0-fa0a-4085-915c-045a7e643a55/exterior/1765174792923-2cpfuyur93.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": false
           },
           {
             "id": "023c056b-199c-4efe-8426-97ada5c1a043",
@@ -269,6 +248,13 @@
             "isSelected": true
           },
           {
+            "id": "5789ef0c-7a87-46a3-a95b-6dc13bfc4e4f",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/49dc9ba0-fa0a-4085-915c-045a7e643a55/exterior/1765174792922-qts13j7xg7h.jpeg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": false
+          },
+          {
             "id": "88bd6efe-f78f-40eb-b76a-72eeb1b97e7d",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/49dc9ba0-fa0a-4085-915c-045a7e643a55/exterior/1765174792923-ca9xnfvsha.jpg",
             "sortOrder": 9,
@@ -276,11 +262,25 @@
             "isSelected": true
           },
           {
+            "id": "e91433b7-cf48-4404-8929-48a55b5d4e82",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/49dc9ba0-fa0a-4085-915c-045a7e643a55/exterior/1765174792923-10z6k8sczbac.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": false
+          },
+          {
             "id": "75387e0a-418b-4b04-b219-494c058511e4",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/49dc9ba0-fa0a-4085-915c-045a7e643a55/exterior/1765174792923-sicecq144q.jpg",
             "sortOrder": 6,
             "description": "",
             "isSelected": true
+          },
+          {
+            "id": "7477fd84-d1d9-4e14-aa3b-c4f1b203ac7e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/49dc9ba0-fa0a-4085-915c-045a7e643a55/exterior/1765174792923-cejeox53qm.jpeg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": false
           },
           {
             "id": "e1e45a93-635b-4d05-9cf7-4a5f7fec2a26",
@@ -1377,11 +1377,20 @@
               },
               "closing": {
                 "title": "",
-                "images": []
+                "images": [
+                  {
+                    "id": "8665e44a-0e69-41a6-894b-285d5d0bd84c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_closing/1765236692169-f52rld2dmdk.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "essence": {
-                "title": "",
-                "images": []
+                "title": "Story",
+                "images": [],
+                "description": "일반적인 주거 공간에서 볼 수 없는 소재와 구조들로 디자인 된 공간에서,\n일상에서 잠시 벗어나 마주하는 특별한 경험을 선사합니다."
               },
               "gallery": {
                 "title": "",
@@ -1438,13 +1447,13 @@
                 ]
               },
               "signature": {
-                "title": "",
+                "title": "Boutique Hotel  Chesed",
                 "images": [
                   {
                     "id": "f277c6b5-bc0f-435b-8ec7-76bc6d2ac1aa",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098074-rl1q9mc9ers.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "내 안의 작은 유럽",
                     "isSelected": true
                   },
                   {
@@ -1512,8 +1521,24 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": "About Chesed Botique Hotel",
+                "images": [
+                  {
+                    "id": "c359f1ff-a7ad-4bf8-83bd-8e562fcbf68c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/main_hero/1765236796561-1wc94rn89ta.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "04b66aef-8639-42e7-a87e-c760fbac73a7",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/main_hero/1765236845549-ba6qscz75ch.jpeg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "머무르는 공간의 이야기가 풍부할수록 여행의 기억은 더 특별해집니다.\n일상에서 무뎌진 감정과 설렘을 다시 깨우는 헤세드만의 이야기를 만나보세요.\n\n일반적인 주거 공간에서 볼 수 없는 소재와 구조들로 디자인 된 공간에서,\n일상에서 잠시 벗어나 마주하는 특별한 경험을 선사합니다.\n\n고풍스러운 앤티크 가구와 감성적인 소품들이 어우러진 공간에서\n사랑하는 사람과 함께 가장 아름다운 추억을 만들어보세요. "
               },
               "about": []
             }
@@ -1537,7 +1562,6 @@
           ]
         }
       }
-    },
-    "id": "8d7edb99-172f-4ecd-b473-10e6d24fc07f"
+    }
   }
 }
