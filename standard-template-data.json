@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2025-12-10T01:13:22.595Z",
+    "version": "1.6.0",
+    "generatedAt": "2025-12-10T01:21:54.254Z",
     "templateType": "gallery_sidebar_beige",
     "propertyId": "49dc9ba0-fa0a-4085-915c-045a7e643a55",
     "homepageId": "8d7edb99-172f-4ecd-b473-10e6d24fc07f"
@@ -9,8 +9,8 @@
   "property": {
     "id": "49dc9ba0-fa0a-4085-915c-045a7e643a55",
     "name": "양양 헤세드 펜션",
-    "description": "",
-    "subtitle": "",
+    "description": "내 안의 작은 유럽",
+    "subtitle": "내 안의 작은 유럽",
     "address": "강원특별자치도 양양군 강현면 주청1길 64-143",
     "latitude": 0,
     "longitude": 0,
