@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2025-12-10T01:21:54.254Z",
+    "version": "1.7.0",
+    "generatedAt": "2025-12-10T01:27:19.473Z",
     "templateType": "gallery_sidebar_beige",
     "propertyId": "49dc9ba0-fa0a-4085-915c-045a7e643a55",
     "homepageId": "8d7edb99-172f-4ecd-b473-10e6d24fc07f"
@@ -1646,7 +1646,54 @@
                 ],
                 "description": "머무르는 공간의 이야기가 풍부할수록 여행의 기억은 더 특별해집니다.\n일상에서 무뎌진 감정과 설렘을 다시 깨우는 헤세드만의 이야기를 만나보세요.\n\n일반적인 주거 공간에서 볼 수 없는 소재와 구조들로 디자인 된 공간에서,\n일상에서 잠시 벗어나 마주하는 특별한 경험을 선사합니다.\n\n고풍스러운 앤티크 가구와 감성적인 소품들이 어우러진 공간에서\n사랑하는 사람과 함께 가장 아름다운 추억을 만들어보세요. "
               },
-              "about": []
+              "about": [
+                {
+                  "title": "Antique Design",
+                  "images": [
+                    {
+                      "id": "6d11d22e-8a34-479a-8675-0b33219c1f97",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/main_about/1765330022066-3cn0hu168jl.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "bc12ee1a-c2f5-41bd-ab26-3d38d177f17c"
+                    },
+                    {
+                      "id": "9e71447d-cb04-455e-a655-20626731c069",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/main_about/1765330022066-eenyt6rje15.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "bc12ee1a-c2f5-41bd-ab26-3d38d177f17c"
+                    }
+                  ],
+                  "blockId": "bc12ee1a-c2f5-41bd-ab26-3d38d177f17c",
+                  "description": "고풍스러운 앤티크 가구와\n감성적인 소품들이 어우러진 공간에서\n사랑하는 사람과 함께 가장 아름다운 추억을 만들어보세요."
+                },
+                {
+                  "title": "Chesed\nPhoto Spot",
+                  "images": [
+                    {
+                      "id": "bfced953-a056-4bc9-976b-6ea814972aa5",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/main_about/1765330022066-pwpdbgr1bbe.jpeg",
+                      "sortOrder": 2,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "feb3fe73-b07a-4d5d-8c39-28628a5f6929"
+                    },
+                    {
+                      "id": "abf6518f-362f-4b2e-9eb2-a6115b30c909",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/main_about/1765330022066-7plyklibad.jpg",
+                      "sortOrder": 3,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "feb3fe73-b07a-4d5d-8c39-28628a5f6929"
+                    }
+                  ],
+                  "blockId": "feb3fe73-b07a-4d5d-8c39-28628a5f6929",
+                  "description": "70년 이상된 유럽 오리지널 앤틱으로 가득찬 공간에서\n추억을 만들어 보세요"
+                }
+              ]
             }
           ]
         },
