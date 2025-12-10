@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2025-12-09T08:02:29.760Z",
+    "version": "1.4.0",
+    "generatedAt": "2025-12-10T01:07:17.054Z",
     "templateType": "gallery_sidebar_beige",
     "propertyId": "49dc9ba0-fa0a-4085-915c-045a7e643a55",
     "homepageId": "8d7edb99-172f-4ecd-b473-10e6d24fc07f"
@@ -63,33 +63,45 @@
     },
     "facilities": [
       {
-        "id": "d3d19ad7-695b-4387-8d72-15f79511c460",
-        "name": "웰컴 드링크",
-        "description": "따뜻한 환영의 한 잔 ! ",
-        "usageGuide": "- 웰컴 드링크 제공(와인,주스,커피 제공)",
+        "id": "d228a6fa-6dd5-4f18-a5b1-5c20d744de3d",
+        "name": "앤티크 인테리어 ",
+        "description": "Antique Interior",
+        "usageGuide": "고풍스러운 앤티크 가구와\n감성적인 소품들이 어우러진 공간에서\n사랑하는 사람과 함께 가장 아름다운 추억을 만들어보세요.",
         "displayOrder": 0,
         "images": [
           {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d3d19ad7-695b-4387-8d72-15f79511c460/main/1765172420808-hjrjbxgfhp9.jpg",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d3d19ad7-695b-4387-8d72-15f79511c460/main/1765172420807-os93wwlzgk.jpg",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d228a6fa-6dd5-4f18-a5b1-5c20d744de3d/main/1765328216677-ex5my830t7s.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true
           },
           {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d3d19ad7-695b-4387-8d72-15f79511c460/main/1765172420808-m1o072g7i5.jpg",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d228a6fa-6dd5-4f18-a5b1-5c20d744de3d/main/1765328216678-9ky0xkuqtfq.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d228a6fa-6dd5-4f18-a5b1-5c20d744de3d/main/1765328216678-nkjmbmc56pa.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d228a6fa-6dd5-4f18-a5b1-5c20d744de3d/main/1765328216677-7tglz00uuz3.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true
           },
           {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d3d19ad7-695b-4387-8d72-15f79511c460/main/1765265429046-s4t2vc0la4.jpeg",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d228a6fa-6dd5-4f18-a5b1-5c20d744de3d/main/1765328216677-me05jw2hy7m.jpg",
             "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d228a6fa-6dd5-4f18-a5b1-5c20d744de3d/main/1765328216677-gqbuh47evit.jpg",
+            "sortOrder": 3,
             "description": "",
             "isSelected": true
           }
@@ -103,50 +115,75 @@
         "displayOrder": 1,
         "images": [
           {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fa945ebf-1741-48f1-9e3c-a3f8ea6ee346/main/1765172500408-p4xy8d1ubf.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fa945ebf-1741-48f1-9e3c-a3f8ea6ee346/main/1765172500409-s09ej6oxuje.jpeg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fa945ebf-1741-48f1-9e3c-a3f8ea6ee346/main/1765172500408-tegnw74j2ie.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true
           },
           {
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fa945ebf-1741-48f1-9e3c-a3f8ea6ee346/main/1765265431106-c1qg4jvha4c.jpeg",
-            "sortOrder": 1,
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fa945ebf-1741-48f1-9e3c-a3f8ea6ee346/main/1765172500408-p4xy8d1ubf.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fa945ebf-1741-48f1-9e3c-a3f8ea6ee346/main/1765172500409-s09ej6oxuje.jpeg",
+            "sortOrder": 4,
             "description": "",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fa945ebf-1741-48f1-9e3c-a3f8ea6ee346/main/1765265431106-l62fnqcnvx.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fa945ebf-1741-48f1-9e3c-a3f8ea6ee346/main/1765265431106-c1qg4jvha4c.jpeg",
+            "sortOrder": 2,
             "description": "",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fa945ebf-1741-48f1-9e3c-a3f8ea6ee346/main/1765265431106-32ic3ox5ak2.jpeg",
-            "sortOrder": 2,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true
           }
         ]
       },
       {
-        "id": "d228a6fa-6dd5-4f18-a5b1-5c20d744de3d",
-        "name": "서비스",
-        "description": "헤세드만의 특별 서비스 제공 ! ",
-        "usageGuide": "- 전 객실 Wi-Fi 이용 가능\n- 펜션 내 주차공간",
+        "id": "d3d19ad7-695b-4387-8d72-15f79511c460",
+        "name": "웰컴 드링크",
+        "description": "따뜻한 환영의 한 잔 ! ",
+        "usageGuide": "- 웰컴 드링크 제공(와인,주스,커피 제공)",
         "displayOrder": 2,
-        "images": []
+        "images": [
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d3d19ad7-695b-4387-8d72-15f79511c460/main/1765172420808-hjrjbxgfhp9.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d3d19ad7-695b-4387-8d72-15f79511c460/main/1765172420807-os93wwlzgk.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d3d19ad7-695b-4387-8d72-15f79511c460/main/1765172420808-m1o072g7i5.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d3d19ad7-695b-4387-8d72-15f79511c460/main/1765265429046-s4t2vc0la4.jpeg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -1276,7 +1313,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "양양 헤세드 펜션",
                 "images": [
                   {
                     "id": "b51a205e-1f28-489a-b81a-91d44d33db23",
@@ -1418,7 +1455,8 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "\n고풍스러운 앤티크 가구와 \n감성적인 소품들이 어우러진 공간에서\n사랑하는 사람과 함께 \n가장 아름다운 추억을 만들어보세요. "
               },
               "closing": {
                 "title": "",
@@ -1433,63 +1471,71 @@
                 ]
               },
               "essence": {
-                "title": "Story",
+                "title": "About Chesed",
                 "images": [],
                 "description": "일반적인 주거 공간에서 볼 수 없는 소재와 구조들로 디자인 된 공간에서,\n일상에서 잠시 벗어나 마주하는 특별한 경험을 선사합니다."
               },
               "gallery": {
-                "title": "",
+                "title": "Chesed Photo Spot",
                 "images": [
                   {
                     "id": "27ba2f56-9b98-40a2-8b24-99f9ce0f27f5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_gallery/1765184042678-enehgh43g7o.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "Chesed",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "5f32d78a-685a-49f6-9394-0d110113683e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_gallery/1765326382368-nt9ijqkbopm.jpeg",
+                    "sortOrder": 1,
+                    "description": "Chesed",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "f60f167d-c531-4b44-aef1-a4d49e487612",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_gallery/1765326382369-vgsgzc7ic5i.jpg",
+                    "sortOrder": 2,
+                    "description": "Chesed",
                     "isSelected": true
                   },
                   {
                     "id": "f57363a2-99db-45d7-a919-33b8a6439fa7",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_gallery/1765184042678-nh93u49sobi.jpg",
-                    "sortOrder": 1,
-                    "description": "",
+                    "sortOrder": 3,
+                    "description": "Chesed",
                     "isSelected": true
                   },
                   {
-                    "id": "3c573734-eaa6-48e9-88e9-e24d5b52381f",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_gallery/1765184042678-klw6pwtuu7h.jpeg",
-                    "sortOrder": 2,
-                    "description": "",
+                    "id": "d93896c7-6a02-43f5-8930-cc8326d58efe",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_gallery/1765326382369-9xrx7i6vyxv.jpg",
+                    "sortOrder": 4,
+                    "description": "Chesed",
                     "isSelected": true
                   },
                   {
                     "id": "ad9f9860-c35a-45bd-8afb-e6dedc7355de",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_gallery/1765184042678-hqul2z3xpfs.jpeg",
-                    "sortOrder": 3,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "710a598f-ba8e-44a4-a5ca-fa6530af68ad",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_gallery/1765184042678-mzyi41eup3.jpeg",
-                    "sortOrder": 4,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "3879c2c3-ce8a-4b1d-b1ff-baa3ea074ff6",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_gallery/1765184042678-6rup15ev57w.jpeg",
                     "sortOrder": 5,
-                    "description": "",
+                    "description": "Chesed",
                     "isSelected": true
                   },
                   {
                     "id": "311c16e8-5f0b-4449-9332-c8f1ff114142",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_gallery/1765184042678-pgzhm44kv9f.jpg",
                     "sortOrder": 6,
-                    "description": "",
+                    "description": "Chesed",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "b4b2d3b8-eb88-4563-ae20-6f6ebeedded3",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_gallery/1765326382369-a8jb2ant86f.jpeg",
+                    "sortOrder": 7,
+                    "description": "Chesed",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "70년 이상 된 유럽 오리지널 앤틱으로 가득찬 공간에서\n추억을 남겨 보세요"
               },
               "signature": {
                 "title": "Boutique Hotel  Chesed",
@@ -1505,42 +1551,42 @@
                     "id": "5df399c5-002e-4af4-bf7c-5c327bf4f4d8",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098074-d9khcyj3dgf.jpg",
                     "sortOrder": 1,
-                    "description": "",
+                    "description": "내 안의 작은 유럽",
                     "isSelected": true
                   },
                   {
                     "id": "3f0b3f9b-2b1b-433f-a1d7-aa4115ed244e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098074-qp1c07x9xg.jpg",
                     "sortOrder": 2,
-                    "description": "",
+                    "description": "내 안의 작은 유럽",
                     "isSelected": true
                   },
                   {
                     "id": "ac28c4b9-ed77-4324-8527-fd5a429f7540",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098074-wkfg6cbj0xb.jpg",
                     "sortOrder": 3,
-                    "description": "",
+                    "description": "내 안의 작은 유럽",
                     "isSelected": true
                   },
                   {
                     "id": "f4c79fcf-2d15-4f99-b14d-6be8926fae1e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098074-fgdxqajaft9.jpg",
                     "sortOrder": 4,
-                    "description": "",
+                    "description": "내 안의 작은 유럽",
                     "isSelected": true
                   },
                   {
                     "id": "84806e22-26a4-4484-9651-280bbb6d4399",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098075-t6liccbftbq.jpg",
                     "sortOrder": 5,
-                    "description": "",
+                    "description": "내 안의 작은 유럽",
                     "isSelected": true
                   },
                   {
                     "id": "cb1df8b3-a57d-4d48-9a4d-f61a8f27d89f",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098075-ymd745gxle.jpg",
                     "sortOrder": 6,
-                    "description": "",
+                    "description": "내 안의 작은 유럽",
                     "isSelected": true
                   }
                 ]
@@ -1552,8 +1598,16 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": "오시는 길",
+                "images": [
+                  {
+                    "id": "b1400809-a50e-420b-a601-55f33e67c010",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/directions_hero/1765326382369-x0tsstdyoe.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "notice": {
                 "title": "",
@@ -1580,6 +1634,13 @@
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/main_hero/1765236845549-ba6qscz75ch.jpeg",
                     "sortOrder": 1,
                     "description": "",
+                    "isSelected": false
+                  },
+                  {
+                    "id": "2a496a2d-17d1-4d25-ba85-bf9c9f7906f5",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/main_hero/1765326382369-x2ttuhwpgb.jpg",
+                    "sortOrder": 2,
+                    "description": "",
                     "isSelected": true
                   }
                 ],
@@ -1589,19 +1650,171 @@
             }
           ]
         },
-        "room": [],
-        "facility": [],
+        "room": [
+          {
+            "id": "d7b0fd29-4ddb-4cd6-ac47-649e00ff924d",
+            "sections": [
+              {
+                "hero": {
+                  "title": "원룸형 : 거실(침대1)+주방+화장실1\n(전자레인지 조리가 가능하며, 취사를 원하시는 경우 사전 문의 주시기 바랍니다)",
+                  "images": []
+                },
+                "gallery": {
+                  "title": "",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "16eb2259-8450-4cdc-a6bb-7bd97aa2945d",
+            "sections": [
+              {
+                "hero": {
+                  "title": "원룸형 : 거실(침대1)+주방+화장실1\n(전자레인지 조리가 가능하며, 취사를 원하시는 경우 사전 문의 주시기 바랍니다)",
+                  "images": []
+                },
+                "gallery": {
+                  "title": "",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "dd6d348e-e95e-4f14-91e7-798bee4b1e72",
+            "sections": [
+              {
+                "hero": {
+                  "title": "원룸형 : 거실(침대1)+주방+화장실1\n(전자레인지 조리가 가능하며, 취사를 원하시는 경우 사전 문의 주시기 바랍니다)",
+                  "images": []
+                },
+                "gallery": {
+                  "title": "",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "7783907d-a958-43dd-ace3-7b7010cdc8b3",
+            "sections": [
+              {
+                "hero": {
+                  "title": "분리형원룸 : 거실(침대1)+주방+화장실1\n(전자레인지 조리가 가능하며, 취사를 원하시는 경우 사전 문의 주시기 바랍니다)",
+                  "images": []
+                },
+                "gallery": {
+                  "title": "",
+                  "images": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "6c4d1a71-7a4f-479c-9056-bd0d497e5e5a",
+            "sections": [
+              {
+                "hero": {
+                  "title": "원룸형 : 거실(침대1)+주방+화장실1\n(전자레인지 조리가 가능하며, 취사를 원하시는 경우 사전 문의 주시기 바랍니다)",
+                  "images": []
+                },
+                "gallery": {
+                  "title": "",
+                  "images": []
+                }
+              }
+            ]
+          }
+        ],
+        "facility": [
+          {
+            "id": "d3d19ad7-695b-4387-8d72-15f79511c460",
+            "sections": [
+              {
+                "hero": {
+                  "title": "Wellcome Drink",
+                  "images": []
+                },
+                "about": {
+                  "title": "",
+                  "images": []
+                },
+                "experience": {
+                  "benefits": [],
+                  "features": [],
+                  "additionalInfos": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "fa945ebf-1741-48f1-9e3c-a3f8ea6ee346",
+            "sections": [
+              {
+                "hero": {
+                  "title": "Breakfast Service",
+                  "images": []
+                },
+                "about": {
+                  "title": "",
+                  "images": []
+                },
+                "experience": {
+                  "benefits": [],
+                  "features": [],
+                  "additionalInfos": []
+                }
+              }
+            ]
+          },
+          {
+            "id": "d228a6fa-6dd5-4f18-a5b1-5c20d744de3d",
+            "sections": [
+              {
+                "hero": {
+                  "title": "Antique Interior",
+                  "images": []
+                },
+                "about": {
+                  "title": "",
+                  "images": []
+                },
+                "experience": {
+                  "benefits": [],
+                  "features": [],
+                  "additionalInfos": []
+                }
+              }
+            ]
+          }
+        ],
         "reservation": {
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": "ㅇㅇㅇ",
+                "images": [
+                  {
+                    "id": "d5103df2-3d77-48cb-9e64-c465d5b36971",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/reservation_hero/1765328817908-cavgnz3fzfm.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "fc0d0354-d9f5-4f6e-a8ae-80d396ec5a7b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/reservation_hero/1765328817908-ql0p0wv83x.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ]
               },
               "about": {
-                "title": "",
+                "title": "예약안내",
                 "images": [],
-                "description": ""
+                "description": "펜션 예약 전 꼭 읽어주세요!"
               }
             }
           ]
