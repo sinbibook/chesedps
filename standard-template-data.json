@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.8.0",
-    "generatedAt": "2025-12-10T01:31:39.782Z",
+    "version": "1.9.0",
+    "generatedAt": "2025-12-10T01:32:51.634Z",
     "templateType": "gallery_sidebar_beige",
     "propertyId": "49dc9ba0-fa0a-4085-915c-045a7e643a55",
     "homepageId": "8d7edb99-172f-4ecd-b473-10e6d24fc07f"
@@ -1459,13 +1459,13 @@
                 "description": "\n고풍스러운 앤티크 가구와 \n감성적인 소품들이 어우러진 공간에서\n사랑하는 사람과 함께 \n가장 아름다운 추억을 만들어보세요. "
               },
               "closing": {
-                "title": "",
+                "title": "/ 양양 헤세드 펜션 /",
                 "images": [
                   {
                     "id": "8665e44a-0e69-41a6-894b-285d5d0bd84c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_closing/1765236692169-f52rld2dmdk.jpg",
                     "sortOrder": 0,
-                    "description": "",
+                    "description": "/ 양양 헤세드 펜션 /",
                     "isSelected": true
                   }
                 ],
