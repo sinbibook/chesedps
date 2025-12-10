@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.12.0",
-    "generatedAt": "2025-12-10T01:36:58.506Z",
+    "version": "1.13.0",
+    "generatedAt": "2025-12-10T01:38:58.303Z",
     "templateType": "gallery_sidebar_beige",
     "propertyId": "49dc9ba0-fa0a-4085-915c-045a7e643a55",
     "homepageId": "8d7edb99-172f-4ecd-b473-10e6d24fc07f"
@@ -72,49 +72,49 @@
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d228a6fa-6dd5-4f18-a5b1-5c20d744de3d/main/1765328216678-9ky0xkuqtfq.jpg",
             "sortOrder": 2,
-            "description": "",
+            "description": "Antique Interior",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d228a6fa-6dd5-4f18-a5b1-5c20d744de3d/main/1765328216677-ex5my830t7s.jpg",
             "sortOrder": 5,
-            "description": "",
+            "description": "Antique Interior",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d228a6fa-6dd5-4f18-a5b1-5c20d744de3d/main/1765328216678-nkjmbmc56pa.jpg",
             "sortOrder": 3,
-            "description": "",
+            "description": "Antique Interior",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d228a6fa-6dd5-4f18-a5b1-5c20d744de3d/main/1765328216677-gqbuh47evit.jpg",
             "sortOrder": 4,
-            "description": "",
+            "description": "Antique Interior",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d228a6fa-6dd5-4f18-a5b1-5c20d744de3d/main/1765328216677-7tglz00uuz3.jpg",
             "sortOrder": 6,
-            "description": "",
+            "description": "Antique Interior",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d228a6fa-6dd5-4f18-a5b1-5c20d744de3d/main/1765328216677-me05jw2hy7m.jpg",
             "sortOrder": 7,
-            "description": "",
+            "description": "Antique Interior",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d228a6fa-6dd5-4f18-a5b1-5c20d744de3d/main/1765330475292-qi3nwd72wir.jpg",
             "sortOrder": 1,
-            "description": "",
+            "description": "Antique Interior",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/d228a6fa-6dd5-4f18-a5b1-5c20d744de3d/main/1765330475292-jxb6yn3325s.jpg",
             "sortOrder": 0,
-            "description": "",
+            "description": "Antique Interior",
             "isSelected": true
           }
         ]
@@ -129,37 +129,37 @@
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fa945ebf-1741-48f1-9e3c-a3f8ea6ee346/main/1765172500408-tegnw74j2ie.jpg",
             "sortOrder": 0,
-            "description": "",
+            "description": "Breakfast Service",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fa945ebf-1741-48f1-9e3c-a3f8ea6ee346/main/1765172500408-p4xy8d1ubf.jpg",
             "sortOrder": 3,
-            "description": "",
+            "description": "Breakfast Service",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fa945ebf-1741-48f1-9e3c-a3f8ea6ee346/main/1765172500409-s09ej6oxuje.jpeg",
             "sortOrder": 4,
-            "description": "",
+            "description": "Breakfast Service",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fa945ebf-1741-48f1-9e3c-a3f8ea6ee346/main/1765265431106-l62fnqcnvx.jpg",
             "sortOrder": 1,
-            "description": "",
+            "description": "Breakfast Service",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fa945ebf-1741-48f1-9e3c-a3f8ea6ee346/main/1765265431106-c1qg4jvha4c.jpeg",
             "sortOrder": 2,
-            "description": "",
+            "description": "Breakfast Service",
             "isSelected": true
           },
           {
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/fa945ebf-1741-48f1-9e3c-a3f8ea6ee346/main/1765265431106-32ic3ox5ak2.jpeg",
             "sortOrder": 5,
-            "description": "",
+            "description": "Breakfast Service",
             "isSelected": true
           }
         ]
