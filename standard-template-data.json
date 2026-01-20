@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.28.0",
-    "generatedAt": "2026-01-20T07:37:10.708Z",
+    "version": "1.29.0",
+    "generatedAt": "2026-01-20T07:48:55.079Z",
     "templateType": "full_banner_slider",
     "propertyId": "49dc9ba0-fa0a-4085-915c-045a7e643a55",
     "homepageId": "8d7edb99-172f-4ecd-b473-10e6d24fc07f"
@@ -429,7 +429,7 @@
       "id": "d7b0fd29-4ddb-4cd6-ac47-649e00ff924d",
       "name": "Room 101",
       "description": "",
-      "roomInfo": "",
+      "roomInfo": "[인원추가(1박기준/현장결제)]\n- 36개월 이상 1인 20,000원\n- 36개월 미만은 무료이나 인원에는 포함",
       "group": null,
       "size": 42,
       "baseOccupancy": 2,
@@ -662,7 +662,7 @@
       "id": "16eb2259-8450-4cdc-a6bb-7bd97aa2945d",
       "name": "Room 102",
       "description": "",
-      "roomInfo": "",
+      "roomInfo": "[인원추가(1박기준/현장결제)]\n- 36개월 이상 1인 20,000원\n- 36개월 미만은 무료이나 인원에는 포함",
       "group": null,
       "size": 42,
       "baseOccupancy": 2,
@@ -871,7 +871,7 @@
       "id": "dd6d348e-e95e-4f14-91e7-798bee4b1e72",
       "name": "Room 201",
       "description": "",
-      "roomInfo": "",
+      "roomInfo": "[인원추가(1박기준/현장결제)]\n- 36개월 이상 1인 20,000원\n- 36개월 미만은 무료이나 인원에는 포함",
       "group": null,
       "size": 42,
       "baseOccupancy": 2,
@@ -1056,7 +1056,7 @@
       "id": "7783907d-a958-43dd-ace3-7b7010cdc8b3",
       "name": "Room 202",
       "description": "",
-      "roomInfo": "",
+      "roomInfo": "[인원추가(1박기준/현장결제)]\n- 36개월 이상 1인 20,000원\n- 36개월 미만은 무료이나 인원에는 포함",
       "group": null,
       "size": 89,
       "baseOccupancy": 3,
@@ -1281,7 +1281,7 @@
       "id": "6c4d1a71-7a4f-479c-9056-bd0d497e5e5a",
       "name": "Room 203",
       "description": "",
-      "roomInfo": "",
+      "roomInfo": "[인원추가(1박기준/현장결제)]\n- 36개월 이상 1인 20,000원\n- 36개월 미만은 무료이나 인원에는 포함",
       "group": null,
       "size": 42,
       "baseOccupancy": 2,
@@ -1644,11 +1644,11 @@
                 "title": "양양 헤세드 펜션",
                 "images": [
                   {
-                    "id": "8665e44a-0e69-41a6-894b-285d5d0bd84c",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_closing/1765236692169-f52rld2dmdk.jpg?quality=70",
-                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_closing/1765236692169-f52rld2dmdk.jpg",
+                    "id": "f3ad574a-7459-4efe-8435-bfc0bf326408",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_closing/1768894730894-7nn3eztz735.jpg?quality=70",
+                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_closing/1768894730894-7nn3eztz735.jpg",
                     "sortOrder": 0,
-                    "description": "양양 헤세드 펜션",
+                    "description": "",
                     "isSelected": true
                   }
                 ],
@@ -1807,26 +1807,10 @@
                 "title": "About Chesed Botique Hotel",
                 "images": [
                   {
-                    "id": "c359f1ff-a7ad-4bf8-83bd-8e562fcbf68c",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/main_hero/1765236796561-1wc94rn89ta.jpg?quality=70",
-                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/main_hero/1765236796561-1wc94rn89ta.jpg",
-                    "sortOrder": 0,
-                    "description": "",
-                    "isSelected": false
-                  },
-                  {
-                    "id": "04b66aef-8639-42e7-a87e-c760fbac73a7",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/main_hero/1765236845549-ba6qscz75ch.jpeg?quality=70",
-                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/main_hero/1765236845549-ba6qscz75ch.jpeg",
-                    "sortOrder": 1,
-                    "description": "",
-                    "isSelected": false
-                  },
-                  {
                     "id": "2a496a2d-17d1-4d25-ba85-bf9c9f7906f5",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/main_hero/1765326382369-x2ttuhwpgb.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/main_hero/1765326382369-x2ttuhwpgb.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   }
