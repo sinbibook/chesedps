@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.25.0",
-    "generatedAt": "2026-01-20T07:22:02.014Z",
+    "version": "1.26.0",
+    "generatedAt": "2026-01-20T07:31:43.847Z",
     "templateType": "full_banner_slider",
     "propertyId": "49dc9ba0-fa0a-4085-915c-045a7e643a55",
     "homepageId": "8d7edb99-172f-4ecd-b473-10e6d24fc07f"
@@ -1641,18 +1641,18 @@
                 "description": "\n고풍스러운 앤티크 가구와 \n감성적인 소품들이 어우러진 공간에서\n사랑하는 사람과 함께 \n가장 아름다운 추억을 만들어보세요. "
               },
               "closing": {
-                "title": "/ 양양 헤세드 펜션 /",
+                "title": "양양 헤세드 펜션",
                 "images": [
                   {
                     "id": "8665e44a-0e69-41a6-894b-285d5d0bd84c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_closing/1765236692169-f52rld2dmdk.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_closing/1765236692169-f52rld2dmdk.jpg",
                     "sortOrder": 0,
-                    "description": "/ 양양 헤세드 펜션 /",
+                    "description": "양양 헤세드 펜션",
                     "isSelected": true
                   }
                 ],
-                "description": "/ 양양 헤세드 펜션 /"
+                "description": "양양 헤세드 펜션"
               },
               "essence": {
                 "title": "About Chesed",
@@ -1741,51 +1741,27 @@
                     "isSelected": true
                   },
                   {
-                    "id": "5df399c5-002e-4af4-bf7c-5c327bf4f4d8",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098074-d9khcyj3dgf.jpg?quality=70",
-                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098074-d9khcyj3dgf.jpg",
-                    "sortOrder": 1,
-                    "description": "내 안의 작은 유럽",
-                    "isSelected": true
-                  },
-                  {
                     "id": "3f0b3f9b-2b1b-433f-a1d7-aa4115ed244e",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098074-qp1c07x9xg.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098074-qp1c07x9xg.jpg",
-                    "sortOrder": 2,
-                    "description": "내 안의 작은 유럽",
+                    "sortOrder": 1,
+                    "description": "유럽의 오래된 집처럼\n빈티지 인테리어와 감성 소품이 채워진 공간",
                     "isSelected": true
                   },
                   {
                     "id": "ac28c4b9-ed77-4324-8527-fd5a429f7540",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098074-wkfg6cbj0xb.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098074-wkfg6cbj0xb.jpg",
-                    "sortOrder": 3,
-                    "description": "내 안의 작은 유럽",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "f4c79fcf-2d15-4f99-b14d-6be8926fae1e",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098074-fgdxqajaft9.jpg?quality=70",
-                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098074-fgdxqajaft9.jpg",
-                    "sortOrder": 4,
-                    "description": "내 안의 작은 유럽",
+                    "sortOrder": 2,
+                    "description": "하나하나 고른 빈티지 가구와 소품,\n유럽 감성이 담긴 그릇까지 머무는 재미를 더합니다.",
                     "isSelected": true
                   },
                   {
                     "id": "84806e22-26a4-4484-9651-280bbb6d4399",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098075-t6liccbftbq.jpg?quality=70",
                     "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098075-t6liccbftbq.jpg",
-                    "sortOrder": 5,
-                    "description": "내 안의 작은 유럽",
-                    "isSelected": true
-                  },
-                  {
-                    "id": "cb1df8b3-a57d-4d48-9a4d-f61a8f27d89f",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098075-ymd745gxle.jpg?quality=70",
-                    "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/index_signature/1765184098075-ymd745gxle.jpg",
-                    "sortOrder": 6,
-                    "description": "내 안의 작은 유럽",
+                    "sortOrder": 3,
+                    "description": "머무는 순간마다 취향이 느껴지는 공간\n헤세드에서, 천천히 쉬어가세요.",
                     "isSelected": true
                   }
                 ]
@@ -2098,7 +2074,89 @@
         "popups": []
       },
       "property": {
-        "images": []
+        "images": [
+          {
+            "id": "9856a83f-26d5-4dd8-ae2c-1c86bf486bdb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_thumbnail/1768894297357-io5z3gjvvod.jpg?quality=70",
+            "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_thumbnail/1768894297357-io5z3gjvvod.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "category": "property_thumbnail"
+          },
+          {
+            "id": "7e0aea1e-a9db-45b3-9884-70230eb359f9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_exterior/1768894297357-ow8emoxvvk.jpeg?quality=70",
+            "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_exterior/1768894297357-ow8emoxvvk.jpeg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "80fcf3ad-f214-49e2-94e4-dbae859f2313",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_exterior/1768894297357-tp16yht405q.jpg?quality=70",
+            "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_exterior/1768894297357-tp16yht405q.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "dc296643-ba20-4a18-abde-5730d6a84ac0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_exterior/1768894297357-5fwutosgs76.jpg?quality=70",
+            "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_exterior/1768894297357-5fwutosgs76.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "daeddf95-701b-423e-8bb3-22ab4690a49a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_exterior/1768894297357-gwtdb6vdplt.jpg?quality=70",
+            "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_exterior/1768894297357-gwtdb6vdplt.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "847f074e-0224-4a76-9bba-b213b39011a9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_exterior/1768894297357-r0mdms4xzbs.jpg?quality=70",
+            "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_exterior/1768894297357-r0mdms4xzbs.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "c573015e-457e-4257-8691-fd084f14146e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_exterior/1768894297357-jeoh4aykcqb.jpg?quality=70",
+            "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_exterior/1768894297357-jeoh4aykcqb.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "d1eb917f-e8df-4f25-ba0a-943c5b0a4809",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_exterior/1768894297357-gz6hf2vs47t.jpg?quality=70",
+            "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_exterior/1768894297357-gz6hf2vs47t.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          },
+          {
+            "id": "d04de0fd-8e6d-4da7-8e93-ee93f5d1af1a",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/render/image/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_exterior/1768894297357-vla2t3vaf1s.jpg?quality=70",
+            "rawUrl": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/8d7edb99-172f-4ecd-b473-10e6d24fc07f/property_exterior/1768894297357-vla2t3vaf1s.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true,
+            "category": "property_exterior"
+          }
+        ]
       },
       "roomtypes": [
         {
@@ -2897,6 +2955,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "8d7edb99-172f-4ecd-b473-10e6d24fc07f"
   }
 }
