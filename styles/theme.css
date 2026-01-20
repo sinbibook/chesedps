@@ -1,30 +1,9 @@
-/* Theme CSS - 테마 변수 정의 (폰트, 색상) */
-/* 배포 시 이 파일만 덮어쓰면 됨 */
+/* CDN Fonts */
+@import url('https://hangeul.pstatic.net/hangeul_static/css/maru-buri.css');
+@import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.min.css');
 
-/* 폰트 정의 */
-@font-face {
-    font-family: 'Chosunilbo';
-    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Chosunilbo_myungjo.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
-    font-family: 'Continuous';
-    src: url('../fonts/continuous.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-
-/* 테마 변수 */
+/* CSS Variables */
 :root {
-    /* 폰트 */
-    --font-ko-main: 'Chosunilbo', serif;
-    --font-ko-sub: 'Chosunilbo', serif;
-    --font-en-main: 'Continuous', serif;
-
-    /* 색상 */
-    --color-primary: #fff8ef;
-    --color-secondary: #6c5f51;
+  --font-ko-main: 'MaruBuri', sans-serif;
+  --font-ko-sub: 'Pretendard', sans-serif;
 }
