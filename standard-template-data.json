@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.30.0",
-    "generatedAt": "2026-01-20T07:57:08.861Z",
+    "version": "1.31.0",
+    "generatedAt": "2026-01-23T00:55:30.496Z",
     "templateType": "full_banner_slider",
     "propertyId": "49dc9ba0-fa0a-4085-915c-045a7e643a55",
     "homepageId": "8d7edb99-172f-4ecd-b473-10e6d24fc07f"
@@ -427,7 +427,7 @@
   "rooms": [
     {
       "id": "d7b0fd29-4ddb-4cd6-ac47-649e00ff924d",
-      "name": "Room 101",
+      "name": "101호 (빈티지한 프로방스 스타일의 공간)",
       "description": "",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 36개월 이상 1인 20,000원\n- 36개월 미만은 무료이나 인원에는 포함",
       "group": null,
@@ -660,7 +660,7 @@
     },
     {
       "id": "16eb2259-8450-4cdc-a6bb-7bd97aa2945d",
-      "name": "Room 102",
+      "name": "102호 (프렌치 파인한 고품격 엔틱의 조화)",
       "description": "",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 36개월 이상 1인 20,000원\n- 36개월 미만은 무료이나 인원에는 포함",
       "group": null,
@@ -869,7 +869,7 @@
     },
     {
       "id": "dd6d348e-e95e-4f14-91e7-798bee4b1e72",
-      "name": "Room 201",
+      "name": "201호 (핑크빛 쉐비풍과 프렌치의 감동을 담은 공간)",
       "description": "",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 36개월 이상 1인 20,000원\n- 36개월 미만은 무료이나 인원에는 포함",
       "group": null,
@@ -1054,7 +1054,7 @@
     },
     {
       "id": "7783907d-a958-43dd-ace3-7b7010cdc8b3",
-      "name": "Room 202",
+      "name": "202호 (영국 엔틱의 품격과 편안함이 가득한 공간)",
       "description": "",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 36개월 이상 1인 20,000원\n- 36개월 미만은 무료이나 인원에는 포함",
       "group": null,
@@ -1279,7 +1279,7 @@
     },
     {
       "id": "6c4d1a71-7a4f-479c-9056-bd0d497e5e5a",
-      "name": "Room 203",
+      "name": "203호 (럭셔리한 조명과 엔틱이 주는 특별한 공간)",
       "description": "",
       "roomInfo": "[인원추가(1박기준/현장결제)]\n- 36개월 이상 1인 20,000원\n- 36개월 미만은 무료이나 인원에는 포함",
       "group": null,
